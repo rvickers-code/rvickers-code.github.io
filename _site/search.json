@@ -21,6 +21,20 @@
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\nsum(range(1,101))\n\n5050\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   },
   {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "All Posts\n\nTest Post 1\nTest Post 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome\nThis is my blog’s homepage.\nSee all posts →"
+  },
+  {
     "objectID": "posts/test_post.html",
     "href": "posts/test_post.html",
     "title": "test1",
