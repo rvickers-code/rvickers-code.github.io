@@ -1,8 +1,0 @@
----
-title: "Posts"
----
-
-# All Posts
-
-- [Test Post 1](test_post.html)
-- [Test Post 2](test_post_2.html)

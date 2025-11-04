@@ -1,9 +1,0 @@
----
-title: "Home"
----
-
-# Welcome
-
-This is my blog’s homepage.
-
-[See all posts →](posts/)
