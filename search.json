@@ -4,7 +4,7 @@
     "href": "posts/test2.html",
     "title": "Test Post 2",
     "section": "",
-    "text": "Test Post 2\nHello again.\n\nsum(range(1,101))\n\n5050"
+    "text": "Hello again.\n\nsum(range(1,101))\n\n5050"
   },
   {
     "objectID": "posts/index.html",
@@ -25,6 +25,6 @@
     "href": "posts/test1.html",
     "title": "Test Post 1",
     "section": "",
-    "text": "Test Post 1\nHello world."
+    "text": "Hello world."
   }
 ]
