@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/test2.html",
+    "href": "posts/test2.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Test Post 2\nHello again."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "All Posts",
+    "section": "",
+    "text": "All Posts\nlisting: contents: posts type: default"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome\nThis is my data science blog."
+  },
+  {
+    "objectID": "posts/test1.html",
+    "href": "posts/test1.html",
+    "title": "Test Post 1",
+    "section": "",
+    "text": "Test Post 1\nHello world."
+  }
+]
