@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -199,7 +199,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1762277850094" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1762214400000" data-listing-file-modified-sort="1762279032203" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
 <div class="thumbnail"><a href="../posts/test1.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -215,10 +215,13 @@ Hello world.
 </div>
 <div class="metadata">
 <a href="../posts/test1.html" class="no-external">
+<div class="listing-date">
+Nov 4, 2025
+</div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1762277854735" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1762214400000" data-listing-file-modified-sort="1762279033001" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
 <div class="thumbnail"><a href="../posts/test2.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -226,7 +229,7 @@ Hello world.
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../posts/test2.html" class="no-external">Untitled</a>
+<a href="../posts/test2.html" class="no-external">Test Post 2</a>
 </h3>
 <div class="delink listing-description"><a href="../posts/test2.html" class="no-external">
 Hello again.
@@ -234,6 +237,9 @@ Hello again.
 </div>
 <div class="metadata">
 <a href="../posts/test2.html" class="no-external">
+<div class="listing-date">
+Nov 4, 2025
+</div>
 </a>
 </div>
 </div>
