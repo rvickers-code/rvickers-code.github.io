@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: .
 
 website:
   title: "My Quarto Blog"
+  site-url: "https://rvickers-code.github.io"
   navbar:
     left:
       - text: Home

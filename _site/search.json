@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "posts/test_post_2.html",
+    "href": "posts/test_post_2.html",
+    "title": "test2",
+    "section": "",
+    "text": "\\(x_1 = \\pi^2\\)"
+  },
+  {
+    "objectID": "posts/test_post_2.html#quarto",
+    "href": "posts/test_post_2.html#quarto",
+    "title": "test2",
+    "section": "",
+    "text": "\\(x_1 = \\pi^2\\)"
+  },
+  {
+    "objectID": "posts/test_post_2.html#running-code",
+    "href": "posts/test_post_2.html#running-code",
+    "title": "test2",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\nsum(range(1,101))\n\n5050\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
     "objectID": "posts/test_post.html",
     "href": "posts/test_post.html",
     "title": "test1",
