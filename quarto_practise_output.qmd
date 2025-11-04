@@ -1,0 +1,74 @@
+---
+title: "quarto_practise"
+format: html
+editor: visual
+bibliography: references.bib
+---
+
+## Text Formatting
+
+*italic* **bold** ~~strikout~~ `code` [small caps]{.smallcaps} superscript^2^ and subscript~2~\
+
+## Headings
+
+# 1st Level Header
+
+## 2nd Level Header
+
+### 3rd Level Header
+
+## Lists
+
+-   Bulleted list item 1
+
+-   item 2
+
+    -   item 2a
+
+    -   Item 2b
+
+1.  Numbered list item 1
+
+2.  Item 2. The numbers are incrementedd automatically in the output
+
+## Links and images
+
+[example.com](example.com)
+
+[linked phrase](linked%20phrase)
+
+![Quarto logo and the word Quarto](quarto.png){width="320" height="77"}
+
+## Tables
+
+| Col1 | Col2 |
+|------|------|
+| x11  | x12  |
+| x21  | x22  |
+
+```{r}
+# diamonds |> 
+#   select(carat > 2.5) |> 
+#   ggplot(aes(...))
+```
+
+lorem ipsum[^1].
+
+[^1]: test footnote
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+asasa
+
+asas
+
+> big quote\
+> continues
+>
+> continues
+
+Welcome to the tidy verse citation: [@wickham2019]
